@@ -10,3 +10,8 @@ const server = http.createServer((req,res)=>{
 
 //listen on port 3000
 server.listen(3000,()=>console.log("Server is running on port 3000..."))
+
+
+//altele
+// npm express docs: https://www.npmjs.com/package/express
+
